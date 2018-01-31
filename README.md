@@ -1,7 +1,7 @@
 IfromProf
 ==============================
 
-A short description of the project.
+Contains only the two scripts for extracting I(t) from replication profiles
 
 Project Organization
 ------------
