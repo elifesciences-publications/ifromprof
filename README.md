@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Arbona et al., "The eukaryotic bell-shaped temporal rate of DNA replication origin firing emanates from a balance between origin activation and passivation". eLife, 2018. http://dx.doi.org/10.7554/eLife.35192
+
+
 IfromProf
 ==============================
 
